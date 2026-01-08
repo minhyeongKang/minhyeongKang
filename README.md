@@ -87,6 +87,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeongKang&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeongKang_icons=true&theme=radical)
+
 </div>
 
 <br/>
