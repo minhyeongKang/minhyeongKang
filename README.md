@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:def7f6,100:365957&height=140&text=Minhyeong's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:def7f6,100:365957&height=160&section=header&text=Minhyeong's%20GitHub&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <br/>
 
 <div align="center">
 
-### 👋 Hi, I'm Minhyeong
-
+### 👋 Hi, I'm Minhyeong  
 꾸준히 기록하고, 더 나은 코드를 만들기 위해 성장 중입니다 🌿
 
 </div>
@@ -77,6 +76,20 @@
 <br/>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
