@@ -81,28 +81,11 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api
-  ?username=minhyeongKang
-  &show_icons=true
-  &hide_border=true
-  &cache_seconds=1800
-  &bg_color=0D1117
-  &title_color=5FE3D3
-  &text_color=C9D1D9
-  &icon_color=5FE3D3" />
+<img src="https://github-readme-stats.vercel.app/api?username=minhyeongKang&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9&icon_color=5FE3D3" />
 
 <br/><br/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=minhyeongKang
-  &layout=compact
-  &hide_border=true
-  &cache_seconds=1800
-  &bg_color=0D1117
-  &title_color=5FE3D3
-  &text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeongKang&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9" />
 
 </div>
 
