@@ -80,9 +80,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhyeongKang&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeongKang&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api
+  ?username=minhyeongKang
+  &show_icons=true
+  &hide_border=true
+  &cache_seconds=1800
+  &bg_color=0D1117
+  &title_color=5FE3D3
+  &text_color=C9D1D9
+  &icon_color=5FE3D3" />
+
+<br/><br/>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/
+  ?username=minhyeongKang
+  &layout=compact
+  &hide_border=true
+  &cache_seconds=1800
+  &bg_color=0D1117
+  &title_color=5FE3D3
+  &text_color=C9D1D9" />
+
 </div>
 
 <br/>
