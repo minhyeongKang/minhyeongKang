@@ -7,7 +7,7 @@
 <div align="center">
 
 ### 👋 Hi, I'm Minhyeong  
-꾸준히 기록하고, 더 나은 코드를 만들기 위해 성장 중입니다 🌿
+꾸준히 기록하고, 더 나은 Developer가 되기 위해 성장 중입니다.
 
 </div>
 
@@ -48,7 +48,7 @@
 <br/><br/>
 
 ### Frontend
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
 
 <br/><br/>
@@ -68,7 +68,7 @@
 
 ### Collaboration & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
 
 </div>
@@ -80,13 +80,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=minhyeongKang&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeongKang&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
