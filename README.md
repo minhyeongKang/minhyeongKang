@@ -7,7 +7,6 @@
 <div align="center">
 
 ### 👋 Hi, I'm Minhyeong  
-꾸준히 기록하고, 더 나은 Developer가 되기 위해 성장 중입니다.
 
 </div>
 
@@ -92,7 +91,5 @@
 <br/>
 
 <div align="center">
-
-✨ Thanks for visiting my profile ✨
 
 </div>
