@@ -70,6 +70,13 @@
 
 </div>
 
+## 🏅 Certified
+
+<div>
+  <img src="./assets/2025-03_Badge_SF-Certified_Platform-Admin_High-Res.png" alt="Salesforce Certified Platform Administrator" width="220" />
+  <img src="./assets/2025-04_Badge_SF-Certified_Plat-Dev_High-Res.png" alt="Salesforce Certified Platform Developer" width="220" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
