@@ -2,17 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:def7f6,100:365957&height=160&section=header&text=Minhyeong's%20GitHub&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<br/>
-
 <div align="center">
 
-### 👋 Hi, I'm Minhyeong  
+### 👋 Hi, I'm Minhyeong
 
 </div>
-
-<br/>
-
----
 
 ## 🧑‍💻 Contact
 
@@ -29,10 +23,6 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
   </a>
 </div>
-
-<br/>
-
----
 
 ## 🛠️ Tech Stacks
 
@@ -72,24 +62,10 @@
 
 </div>
 
-<br/>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=minhyeongKang&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9&icon_color=5FE3D3" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeongKang&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=minhyeongKang&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9&icon_color=5FE3D3" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeongKang&layout=compact&hide_border=true&langs_count=8&cache_seconds=1800&bg_color=0D1117&title_color=5FE3D3&text_color=C9D1D9" />
 </div>
