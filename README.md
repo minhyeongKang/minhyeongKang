@@ -55,6 +55,14 @@
 
 <br/><br/>
 
+### CRM & Platform
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce%20Service%20Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce%20Sales%20Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce%20Experience%20Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
+
+<br/><br/>
+
 ### Collaboration & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
