@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Contact
 
-<div align="center">
+<div>
   <a href="https://www.instagram.com/meenhyeong">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stacks
 
-<div align="center">
+<div>
 
 ### Backend & Framework
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
